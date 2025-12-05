@@ -1,0 +1,7 @@
+install.packages("Seurat")
+install.packages("SeuratObject")
+install.packages("data.table")
+install.packages("sf")
+install.packages("geojsonsf")
+install.packages("arrow")
+install.packages("tzdb")
